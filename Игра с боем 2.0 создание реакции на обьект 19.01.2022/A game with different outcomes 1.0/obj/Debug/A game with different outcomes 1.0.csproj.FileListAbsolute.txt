@@ -1,0 +1,49 @@
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csprojAssemblyReference.cache
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Form1.resources
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Properties.Resources.resources
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe.config
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.pdb
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\source\repos\A game with different outcomes 1.0\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csprojAssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Form1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с войном\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csprojAssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Form1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csprojAssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Form1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.exe
+C:\Users\maksi\OneDrive\Рабочий стол\С# Игра\Игра с боем\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.pdb
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe.config
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.exe
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.pdb
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.exe
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\bin\Debug\A game with different outcomes 1.0.pdb
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csprojResolveAssemblyReference.cache
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Form1.resources
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A_game_with_different_outcomes_1._0.Properties.Resources.resources
+X:\Практика 3 курс\Игра с боем 2.0 создание реакции на обьект-20220119T103632Z-001\Игра с боем 2.0 создание реакции на обьект\A game with different outcomes 1.0\obj\Debug\A game with different outcomes 1.0.csproj.GenerateResource.Cache
